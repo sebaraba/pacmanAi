@@ -1,1 +1,3 @@
-# pacmanAi
+# pacmanAi#
+# pacmanAI
+# pacmanAI
